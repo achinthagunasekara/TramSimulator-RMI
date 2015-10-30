@@ -1,5 +1,8 @@
 /*
- * Author : Achintha Gunasekara
+ *
+ * @author Archie Gunasekara
+ * @date 2014
+ * 
  */
 
 package tram;
